@@ -1,5 +1,5 @@
 export default function MyComponent() {
     return (
-        <p>My Component</p>
+        <h1>My Component</h1>
     );
 }
